@@ -3,10 +3,10 @@
   <table>
       <tr>
           <th>Activation Function</th>
-          <thTrain Accuracy</th>
-          <th>Test Accuracy</th>
+          <th>Training Accuracy</th>
+          <th>Testing Accuracy</th>
           <th>LR</th>
-          <th>Test Accuracy</th>
+          <th>Epochs</th>
           <th>#Layers</th>
           <th>#HiddenNodes</th>
       </tr>
