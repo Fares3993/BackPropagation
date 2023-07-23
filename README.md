@@ -1,5 +1,5 @@
 # Back Propagation
-Developed a custom BackPropagation Algorithm from scratch for a penguins dataset, incorporating a user-friendly GUI. The GUI allows users to input the number of Hidden layers and the number of Hidden nodes in each layer. Additionally, users can set the number of epochs, learning rate, and select between sigmoid and tanh activation functions. The option to include or exclude bias is also available. Implemented training and testing accuracy evaluation, providing valuable insights into the model's performance. This project highlights strong skills in machine learning, neural networks, and GUI development.
+Developed a custom BackPropagation Algorithm from scratch for a penguins dataset, incorporating a user-friendly GUI. The GUI allows users to input the number of Hidden layers and the number of Hidden nodes in each layer. Additionally, users can set the number of epochs, learning rate, and select between sigmoid and tanh activation functions. The option to include or exclude bias is also available. Implemented training and testing accuracy evaluation, providing valuable insights into the model's performance.
 <hr>
   <table>
       <tr>
