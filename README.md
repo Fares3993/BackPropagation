@@ -31,6 +31,11 @@ Developed a custom BackPropagation Algorithm from scratch for a penguins dataset
       </tr>
   </table>
 
+### created by a team of 3 students: 
+* Fares Ahmed Abdeltawab
+* Mohamed Ahmed Abdelrahman
+* Mohamed Emad
+
 ## Some Screenshots:
 <img src = "https://github.com/Fares3993/BackPropagation/assets/84674642/8c41c3d1-7073-4be1-85a9-7f1074afc145">
 <img src = "https://github.com/Fares3993/BackPropagation/assets/84674642/2cdcd3a8-249c-498d-9d40-c0fb072cac1f">
