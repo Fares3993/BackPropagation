@@ -11,21 +11,21 @@
           <th>#HiddenNodes</th>
       </tr>
       <tr>
-          <td>Data 1</td>
-          <td>Data 2</td>
-          <td>Data 3</td>
-          <td>Data 4</td>
-          <td>Data 5</td>
-          <td>Data 6</td>
-          <td>Data 7</td>
+          <td>Sigmoid</td>
+          <td>82.43%</td>
+          <td>100%</td>
+          <td>0.1</td>
+          <td>50000</td>
+          <td>1</td>
+          <td>5</td>
       </tr>
       <tr>
-          <td>Data 8</td>
-          <td>Data 9</td>
-          <td>Data 10</td>
-          <td>Data 11</td>
-          <td>Data 12</td>
-          <td>Data 13</td>
-          <td>Data 14</td>
+          <td>Tanh</td>
+          <td>83.306%</td>
+          <td>95%</td>
+          <td>0.01</td>
+          <td>50000</td>
+          <td>2</td>
+          <td>3,4</td>
       </tr>
   </table>
